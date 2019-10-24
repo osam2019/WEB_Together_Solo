@@ -1,4 +1,4 @@
-<template lang="html">
+﻿<template lang="html">
   <div>
 
     <transition-group name="introPage">
@@ -7,7 +7,7 @@
           <div> <span class="logo">Together</span> </div>
           <div class="introduce">
             <p>새로운 파티 매칭 플랫폼</p>
-            <p>for 외로운 기숙사, 자취 대학생</p>
+            <p>for 외로운 대학생 in 기숙사, 자취방 </p>
           </div>
           <div>
             <el-button class="start" name="button" round @click.native="show=false">start</el-button>
