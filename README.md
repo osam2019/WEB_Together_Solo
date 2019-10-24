@@ -41,8 +41,8 @@ npm run dev
  '투게더'는 빠르고 편리하게 인력을 매칭해서 이들의 고통을 덜어주는 역할을 할 수 있다.
 
 **예시**
-![](./img/facebook1.png)
-![](./img/facebook2.png)
+![](./img/facebook_1.png)
+![](./img/facebook_2.png)
 
 ### 기능, 목적
 
