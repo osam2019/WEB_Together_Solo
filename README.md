@@ -27,6 +27,7 @@
 
 ## 실행
 ```
+git clone https://github.com/osam2019/WEB_Together_Solo.git
 cd WEB_Together_Solo
 npm install
 npm run dev
