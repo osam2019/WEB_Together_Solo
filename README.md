@@ -25,8 +25,9 @@
 - google firebase : https://vueresource-a3eb7.firebaseio.com/
 
 
-## 실행
+## 설치 및 실행
 ```
+git clone https://github.com/osam2019/WEB_Together_Solo.git
 cd WEB_Together_Solo
 npm install
 npm run dev
@@ -95,6 +96,15 @@ npm run dev
 - MIT License
 ## 개발자
 김건우(koimg8545@naver.com)
-- 지상작전사령부 제 5군단 6보병사단 2대대 5중대
+- 지상작전사령부 제 5군단 6보병사단 19연대 2대대 5중대
 ## Known Issue
 - Database에는 게시글 데이터만 존재함
+
+## Trouble Shooting
+추후에 데이터 베이스 이용 예정
+
+## Credit
+Military Soldier Open SW Collective Education Program.
+
+## Change Log
+
