@@ -99,3 +99,12 @@ npm run dev
 - 지상작전사령부 제 5군단 6보병사단 19연대 2대대 5중대
 ## Known Issue
 - Database에는 게시글 데이터만 존재함
+
+## Trouble Shooting
+추후에 데이터 베이스 이용 예정
+
+## Credit
+Military Soldier Open SW Collective Education Program.
+
+## Change Log
+
