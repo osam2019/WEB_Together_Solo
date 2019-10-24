@@ -95,6 +95,6 @@ npm run dev
 - MIT License
 ## 개발자
 김건우(koimg8545@naver.com)
-- 지상작전사령부 제 5군단 6보병사단 2대대 5중대
+- 지상작전사령부 제 5군단 6보병사단 19연대 2대대 5중대
 ## Known Issue
 - Database에는 게시글 데이터만 존재함
