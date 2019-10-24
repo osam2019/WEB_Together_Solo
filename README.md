@@ -3,6 +3,9 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 
+화면정의서 : ./img/WEB_Together_Solo1~3.jpg
+PPT: ./WEB_Together_Solo.pptx
+
 ## logo
 
 ![](./img/logo.png)
