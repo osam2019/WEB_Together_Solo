@@ -25,7 +25,7 @@
 - google firebase : https://vueresource-a3eb7.firebaseio.com/
 
 
-## 실행
+## 설치 및 실행
 ```
 git clone https://github.com/osam2019/WEB_Together_Solo.git
 cd WEB_Together_Solo
