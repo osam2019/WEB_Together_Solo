@@ -2,10 +2,12 @@
 
 
 > Written with [StackEdit](https://stackedit.io/).
-##logo
 
- ![](./img/logo.png)
+## logo
+
+![](./img/logo.png)
 > 2019 OSAM Project Together
+
 
 ## 실행 환경
 - Node.js : v10.16.3
