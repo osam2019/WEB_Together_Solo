@@ -1,10 +1,12 @@
 <template lang="html">
-  <router-link to="/partymanage/1" class="partyManage" tag="el-button">
+  <router-link :to="'/partymanage/'+id" class="partyManage" tag="el-button">
     <span>파티 관리</span>
   </router-link>
 </template>
 
 <script>
+import { mapGetters } from 'vuex'
+
 export default {
   data(){
     return{
@@ -12,7 +14,16 @@ export default {
 
       }
     }
-  }
+  },
+  computed:{
+    id(){
+      return this.getCard.id;
+    },
+    ...mapGetters([
+            'getCard',
+        ])
+  },
+
 }
 
 </script>

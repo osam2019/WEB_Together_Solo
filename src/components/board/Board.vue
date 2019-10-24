@@ -4,6 +4,19 @@
     <!-- <button @click="aaa"></button> -->
     <!-- {{getCards}} -->
 
+    <el-carousel :interval="5000" arrow="always" class="ad">
+        <el-carousel-item style="background-color:#eeeeee;" class="item">
+          <img src="../../../public/hiring.png" alt="" style="margin-top:-90px; width:100%">
+        </el-carousel-item>
+        <el-carousel-item style="background-color:#eeeeee;" class="item">
+          <img src="../../../public/work.jpg" alt="" style="width:100%;">
+        </el-carousel-item>
+        <el-carousel-item style="background-color:#eeeeee;" class="item">
+          <img src="../../../public/korean.jpg" alt="" style=" width:100%">
+        </el-carousel-item>
+      </el-carousel>
+
+
     <el-button class="search" @click="searchBarShow = !searchBarShow">
       <i class="el-icon-search"></i>
     </el-button>
@@ -176,6 +189,19 @@ import { mapMutations } from 'vuex'
 </script>
 
 <style scoped>
+  .ad{
+    height: 430px;
+    margin-top: -130px;
+  }
+
+  .item{
+    height: 400px;
+  }
+
+.el-carousel__container{
+  height: 450px !important;
+}
+
   .search{
       z-index: 1000;
       position: fixed;

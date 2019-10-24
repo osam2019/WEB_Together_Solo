@@ -99,7 +99,7 @@ export default {
 methods:{
   breakParty(){
     if(confirm("정말로 해체하시겠습니까?")){
-      this.$router.push('/');
+      this.$router.push('/board/');
     }
   },
   chat(){

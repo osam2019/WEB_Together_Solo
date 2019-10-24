@@ -155,7 +155,7 @@ import { mapGetters } from 'vuex'
   .side-bar{
     position: fixed;
     /* border-right: 2px solid rgb(183, 194, 193); */
-    z-index: 1;
+    z-index: 50;
     background-color: white;
     max-height: 100%;
     width: 70%;

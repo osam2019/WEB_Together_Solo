@@ -42,7 +42,7 @@ import Filter from './components/filter/Filter.vue'
 .container{
   margin-left: 5%;
   width: 90%;
-  margin-top: 30%;
+  margin-top: 300px;
   /* background-color: #e9fdff; */
 }
 
